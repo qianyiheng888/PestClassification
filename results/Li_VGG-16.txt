@@ -1,0 +1,10 @@
+epoch:0, train_loss:0.6953, val_loss:0.2236   accuracy:0.9284 f1 score:0.9287
+epoch:1, train_loss:0.1779, val_loss:0.2053   accuracy:0.9380 f1 score:0.9376
+epoch:2, train_loss:0.0771, val_loss:0.2188   accuracy:0.9346 f1 score:0.9354
+epoch:3, train_loss:0.0443, val_loss:0.1863   accuracy:0.9468 f1 score:0.9466
+epoch:4, train_loss:0.0154, val_loss:0.2295   accuracy:0.9448 f1 score:0.9447
+epoch:5, train_loss:0.0086, val_loss:0.2217   accuracy:0.9530 f1 score:0.9527
+epoch:6, train_loss:0.0072, val_loss:0.2163   accuracy:0.9502 f1 score:0.9501
+epoch:7, train_loss:0.0091, val_loss:0.2066   accuracy:0.9543 f1 score:0.9542
+epoch:8, train_loss:0.0036, val_loss:0.2192   accuracy:0.9502 f1 score:0.9501
+epoch:9, train_loss:0.0030, val_loss:0.2194   accuracy:0.9536 f1 score:0.9534
